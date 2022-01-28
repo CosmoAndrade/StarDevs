@@ -83,7 +83,7 @@ header h1{
     
 }
 
-.frases-container{
+.phrases-container{
     width: 100%;
     margin-top: 8%;
     display: flex;
@@ -92,7 +92,7 @@ header h1{
 
 }
 
-.frases-container button{
+.phrases-container button{
     width: 25%;
     border: 0;
     outline: 0;
@@ -106,12 +106,12 @@ header h1{
     font-family: 'Courier New', Courier, monospace;
     transition: 0.3s ease-in-out;
 }
-.frases-container button:hover{
+.phrases-container button:hover{
     background-color: var(--white);
     color: var(--yellow);
     border-radius: 2rem;
 }
-.frases-container p{
+.phrases-container p{
     text-align: center;
     width: 75%;
     font-size: 1em;
@@ -120,6 +120,6 @@ header h1{
    transition: 0.1s ease-in-out;
 }
 
-.frases-container p:hover{
+.phrases-container p:hover{
     opacity: 0.7;
 }
